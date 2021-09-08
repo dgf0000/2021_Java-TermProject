@@ -18,16 +18,23 @@
 \
 [실행화면]\
 ![0](https://user-images.githubusercontent.com/79827366/132493356-9e9ca614-289e-4c02-a5a2-09b608b52566.PNG)\
+\
 ![1](https://user-images.githubusercontent.com/79827366/132493450-794c38be-cb56-43b9-899a-0abb42a7b99a.PNG)\
+\
 ![3](https://user-images.githubusercontent.com/79827366/132493455-008ee000-1e77-4c95-935b-5be9c704a71a.PNG)\
+\
 ![5](https://user-images.githubusercontent.com/79827366/132493475-f4fbbb12-023f-4ecd-9791-e6312f5fbde8.PNG)\
-코인10개 획득시\
+-코인10개 획득시-\
+\
 ![6](https://user-images.githubusercontent.com/79827366/132493478-190f4ace-3e2b-48fd-b7de-f8939618dd81.PNG)\
 게임 1회이상 클리어 이후 클리어\
+\
 ![7](https://user-images.githubusercontent.com/79827366/132493482-b73bc7ef-9c26-465e-8f51-9f2c78bde759.PNG)\
 스코어 300이상 클리어\
+\
 ![2](https://user-images.githubusercontent.com/79827366/132493485-d5e807e9-4bfd-463e-b550-aea33a2e28ef.PNG)\
 게임오버\
+\
 ![4](https://user-images.githubusercontent.com/79827366/132493487-dd3c7bba-3f47-4087-b3c9-d1707c9f10cf.PNG)\
 코인8개이상 모으고 게임오버\
 \
