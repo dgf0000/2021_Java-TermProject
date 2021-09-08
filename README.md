@@ -18,7 +18,7 @@
 \
 [실행화면]\
 ![image](https://user-images.githubusercontent.com/79827366/132486644-e0910d32-1ad4-48d9-90c5-4f33cec19c72.png)
-![image](https://user-images.githubusercontent.com/79827366/132486748-9433bf7c-dd70-46bf-8d00-be2a5ca4641e.png)
+![image](https://user-images.githubusercontent.com/79827366/132491371-278dab00-6774-4ce6-b87f-3f117632a979.png)
 ![image](https://user-images.githubusercontent.com/79827366/132486733-8452c31e-b807-47ed-bd36-add8346192fe.png)\
 ![image](https://user-images.githubusercontent.com/79827366/132486768-ee1d4d07-8b41-40b6-836b-228481d3a597.png)
 ![image](https://user-images.githubusercontent.com/79827366/132486785-d1a90aa7-e38a-483a-a53c-cfa458a745d5.png)
