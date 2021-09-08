@@ -28,8 +28,10 @@
 \
 \
 \
-[출처]\
+[참조]\
 　　●배경음악(BGM) : https://www.youtube.com/watch?v=RK-T-GEkufU \
 　　●디쿠 카드 이모티콘 : http://ocean.cu.ac.kr/photo_view.html?idx=1406 \
 　　●맵 타일 에셋 : https://assetstore.unity.com/packages/2d/environments/2d-fantasy-forest-tileset-19553 \
-　　●효과음 에셋 : https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116 
+　　●효과음 에셋 : https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116 \
+ \
+　　●이미지 편집 : Steam - Aseprite
