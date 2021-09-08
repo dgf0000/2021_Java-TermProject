@@ -2,6 +2,10 @@
 \
 [게임설명]\
 　　●총알을 피하면서 10개의 동전 모으기\
+　　●배경음악(BGM) : https://youtu.be/1c6cGpwaHwI \
+　　●디쿠 카드 이모티콘 : http://ocean.cu.ac.kr/photo_view.html?idx=1406 \
+　　●맵 타일 에셋 : https://assetstore.unity.com/packages/2d/environments/2d-fantasy-forest-tileset-19553 \
+　　●효과음 에셋 : https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116 \
 \
 [게임규칙]\
 　　●총알에 맞을 시 무적 1초\
