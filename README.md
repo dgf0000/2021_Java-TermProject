@@ -1,5 +1,5 @@
 # DCU의 총알 피하기\
-Java_Term_Project_2021\
+Java_Term_Project_2021_1st_semester\
 \
 [게임설명]\
 　　●총알을 피하면서 10개의 동전 모으기\
